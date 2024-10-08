@@ -1,0 +1,14 @@
+[23-Aug-2024 03:09:00 UTC] PHP Notice:  Undefined variable: conn1 in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 23
+[23-Aug-2024 03:09:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 23
+[23-Aug-2024 03:09:17 UTC] PHP Notice:  Undefined variable: conn1 in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 23
+[23-Aug-2024 03:09:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 23
+[23-Aug-2024 03:16:02 UTC] PHP Notice:  Undefined variable: conn1 in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 23
+[23-Aug-2024 03:16:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 23
+[23-Aug-2024 03:16:16 UTC] PHP Notice:  Undefined variable: conn1 in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 23
+[23-Aug-2024 03:16:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 23
+[23-Aug-2024 03:16:19 UTC] PHP Notice:  Undefined variable: conn1 in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 23
+[23-Aug-2024 03:16:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 23
+[23-Aug-2024 03:16:20 UTC] PHP Notice:  Undefined variable: conn1 in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 23
+[23-Aug-2024 03:16:20 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 23
+[23-Aug-2024 03:22:19 UTC] PHP Notice:  Undefined variable: conn1 in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 34
+[23-Aug-2024 03:22:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/zvnjfycvhd9f/public_html/test.yuvasakthiacademy.com/ajax/save_trainee.php on line 34
